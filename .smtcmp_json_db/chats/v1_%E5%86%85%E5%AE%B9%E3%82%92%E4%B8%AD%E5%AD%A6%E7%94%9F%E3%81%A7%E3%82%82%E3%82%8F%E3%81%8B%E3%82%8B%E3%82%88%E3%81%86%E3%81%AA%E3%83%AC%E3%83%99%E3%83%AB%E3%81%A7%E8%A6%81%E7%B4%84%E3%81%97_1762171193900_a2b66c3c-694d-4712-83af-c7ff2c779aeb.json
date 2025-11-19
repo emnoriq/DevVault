@@ -1,0 +1,46 @@
+{
+  "id": "a2b66c3c-694d-4712-83af-c7ff2c779aeb",
+  "title": "内容を中学生でもわかるようなレベルで要約し",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n内容を中学生でもわかるようなレベルで要約して\n\n"
+        }
+      ],
+      "id": "b542f52c-f472-4347-b2fc-07b587d74127",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Clippings/GitHub × Obsidian × ChatGPT で “知識アシスタント” をつくる方法.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1762171191697,
+  "updatedAt": 1762171193900,
+  "schemaVersion": 1
+}
